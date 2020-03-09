@@ -1,0 +1,8 @@
+How to configure "Google.io"
+
+1: Go to "Code.txt"
+2: Copy the text and close "Code.txt"
+3: Make sure you have a google account and that your logged in
+4: Make a new bookmark in a browser that supports Javascript
+5: Copy the text in the "URL" section of the bookmark
+6: And to start "Google.io" go to the real Google.com just click the Bookmark!
